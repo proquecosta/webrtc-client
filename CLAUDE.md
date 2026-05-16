@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository
 
-https://github.com/proquecosta/claude-playground.git
+https://github.com/proquecosta/webrtc-client
 
 **Branching convention for spec-driven work:**
 - `main` — stable, spec-complete code only
